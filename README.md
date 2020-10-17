@@ -1,0 +1,3 @@
+# LetsUgrade Python Essential
+This repository contains day-wise programs of Python Essential with increasing difficulty ...
+This was guided by LetsUpgrade
